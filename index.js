@@ -57,7 +57,7 @@ function engineerQs(baseAnswers) {
     inquirer.prompt([{
             type: "input",
             message: "Plese Enter Enginner GitHub username",
-            name: "engingeerGithub",
+            name: "engineerGithub",
         },
         {
             type: "confirm",
