@@ -56,7 +56,7 @@ function employeeInfo() {
 function engineerQs(baseAnswers) {
     inquirer.prompt([{
             type: "input",
-            message: "An Engineer, got it.  What is their GitHub username?",
+            message: "Plese Enter Enginner GitHub username",
             name: "engingeerGithub",
         },
         {
